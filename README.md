@@ -10,7 +10,7 @@ npm
 
 MongoDB
 
-##Project Structure
+## Project Structure
 backend: Contains the Express.js server code.
 
 frontend: Contains the HTML, Tailwind CSS, and JavaScript files for the user interface.
